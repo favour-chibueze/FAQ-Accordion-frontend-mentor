@@ -138,7 +138,7 @@ p.answer {
   color: gray
 }
 
-@media screen and (max-device-width: 375px) {
+@media screen and (max-device-width: 768px) {
   .card {
     display: block;
   }
